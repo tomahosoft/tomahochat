@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: TomahoChat-1.0.0-arm64.dmg
+    sha512: fpeN2CvM76XFtaKX8ZoMkS++bww8iMG8QOhI+3MKDwihvATABlLhBDv/Mr7GyyO1Qj8rFIq4cIr3rZYXJ8T6Iw==
+    size: 136343759
+path: TomahoChat-1.0.0-arm64.dmg
+sha512: fpeN2CvM76XFtaKX8ZoMkS++bww8iMG8QOhI+3MKDwihvATABlLhBDv/Mr7GyyO1Qj8rFIq4cIr3rZYXJ8T6Iw==
+releaseDate: '2021-07-24T03:12:45.080Z'
